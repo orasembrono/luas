@@ -1,3 +1,3 @@
-github.com/orasembrono/luas
+module github.com/orasembrono/luas
 
 go 1.16
